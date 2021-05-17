@@ -1,0 +1,91 @@
+Image, Method, Keypoints
+../images/KITTI/2011_09_26/image_00/data/0000000000.png,SHITOMASI,1370,
+../images/KITTI/2011_09_26/image_00/data/0000000000.png,HARRIS,102,
+../images/KITTI/2011_09_26/image_00/data/0000000000.png,FAST,1824,
+../images/KITTI/2011_09_26/image_00/data/0000000000.png,ORB,500,
+../images/KITTI/2011_09_26/image_00/data/0000000000.png,AKAZE,1351,
+../images/KITTI/2011_09_26/image_00/data/0000000000.png,BRISK,2757,
+../images/KITTI/2011_09_26/image_00/data/0000000000.png,SIFT,1438,
+
+Next image
+../images/KITTI/2011_09_26/image_00/data/0000000001.png,SHITOMASI,1301,
+../images/KITTI/2011_09_26/image_00/data/0000000001.png,HARRIS,90,
+../images/KITTI/2011_09_26/image_00/data/0000000001.png,FAST,1832,
+../images/KITTI/2011_09_26/image_00/data/0000000001.png,ORB,500,
+../images/KITTI/2011_09_26/image_00/data/0000000001.png,AKAZE,1327,
+../images/KITTI/2011_09_26/image_00/data/0000000001.png,BRISK,2777,
+../images/KITTI/2011_09_26/image_00/data/0000000001.png,SIFT,1371,
+
+Next image
+../images/KITTI/2011_09_26/image_00/data/0000000002.png,SHITOMASI,1361,
+../images/KITTI/2011_09_26/image_00/data/0000000002.png,HARRIS,99,
+../images/KITTI/2011_09_26/image_00/data/0000000002.png,FAST,1810,
+../images/KITTI/2011_09_26/image_00/data/0000000002.png,ORB,500,
+../images/KITTI/2011_09_26/image_00/data/0000000002.png,AKAZE,1311,
+../images/KITTI/2011_09_26/image_00/data/0000000002.png,BRISK,2741,
+../images/KITTI/2011_09_26/image_00/data/0000000002.png,SIFT,1380,
+
+Next image
+../images/KITTI/2011_09_26/image_00/data/0000000003.png,SHITOMASI,1358,
+../images/KITTI/2011_09_26/image_00/data/0000000003.png,HARRIS,103,
+../images/KITTI/2011_09_26/image_00/data/0000000003.png,FAST,1817,
+../images/KITTI/2011_09_26/image_00/data/0000000003.png,ORB,500,
+../images/KITTI/2011_09_26/image_00/data/0000000003.png,AKAZE,1351,
+../images/KITTI/2011_09_26/image_00/data/0000000003.png,BRISK,2735,
+../images/KITTI/2011_09_26/image_00/data/0000000003.png,SIFT,1335,
+
+Next image
+../images/KITTI/2011_09_26/image_00/data/0000000004.png,SHITOMASI,1333,
+../images/KITTI/2011_09_26/image_00/data/0000000004.png,HARRIS,138,
+../images/KITTI/2011_09_26/image_00/data/0000000004.png,FAST,1793,
+../images/KITTI/2011_09_26/image_00/data/0000000004.png,ORB,500,
+../images/KITTI/2011_09_26/image_00/data/0000000004.png,AKAZE,1360,
+../images/KITTI/2011_09_26/image_00/data/0000000004.png,BRISK,2757,
+../images/KITTI/2011_09_26/image_00/data/0000000004.png,SIFT,1305,
+
+Next image
+../images/KITTI/2011_09_26/image_00/data/0000000005.png,SHITOMASI,1284,
+../images/KITTI/2011_09_26/image_00/data/0000000005.png,HARRIS,257,
+../images/KITTI/2011_09_26/image_00/data/0000000005.png,FAST,1796,
+../images/KITTI/2011_09_26/image_00/data/0000000005.png,ORB,500,
+../images/KITTI/2011_09_26/image_00/data/0000000005.png,AKAZE,1347,
+../images/KITTI/2011_09_26/image_00/data/0000000005.png,BRISK,2695,
+../images/KITTI/2011_09_26/image_00/data/0000000005.png,SIFT,1369,
+
+Next image
+../images/KITTI/2011_09_26/image_00/data/0000000006.png,SHITOMASI,1322,
+../images/KITTI/2011_09_26/image_00/data/0000000006.png,HARRIS,74,
+../images/KITTI/2011_09_26/image_00/data/0000000006.png,FAST,1788,
+../images/KITTI/2011_09_26/image_00/data/0000000006.png,ORB,500,
+../images/KITTI/2011_09_26/image_00/data/0000000006.png,AKAZE,1363,
+../images/KITTI/2011_09_26/image_00/data/0000000006.png,BRISK,2715,
+../images/KITTI/2011_09_26/image_00/data/0000000006.png,SIFT,1396,
+
+Next image
+../images/KITTI/2011_09_26/image_00/data/0000000007.png,SHITOMASI,1366,
+../images/KITTI/2011_09_26/image_00/data/0000000007.png,HARRIS,171,
+../images/KITTI/2011_09_26/image_00/data/0000000007.png,FAST,1695,
+../images/KITTI/2011_09_26/image_00/data/0000000007.png,ORB,500,
+../images/KITTI/2011_09_26/image_00/data/0000000007.png,AKAZE,1331,
+../images/KITTI/2011_09_26/image_00/data/0000000007.png,BRISK,2628,
+../images/KITTI/2011_09_26/image_00/data/0000000007.png,SIFT,1382,
+
+Next image
+../images/KITTI/2011_09_26/image_00/data/0000000008.png,SHITOMASI,1389,
+../images/KITTI/2011_09_26/image_00/data/0000000008.png,HARRIS,140,
+../images/KITTI/2011_09_26/image_00/data/0000000008.png,FAST,1749,
+../images/KITTI/2011_09_26/image_00/data/0000000008.png,ORB,500,
+../images/KITTI/2011_09_26/image_00/data/0000000008.png,AKAZE,1358,
+../images/KITTI/2011_09_26/image_00/data/0000000008.png,BRISK,2639,
+../images/KITTI/2011_09_26/image_00/data/0000000008.png,SIFT,1463,
+
+Next image
+../images/KITTI/2011_09_26/image_00/data/0000000009.png,SHITOMASI,1339,
+../images/KITTI/2011_09_26/image_00/data/0000000009.png,HARRIS,207,
+../images/KITTI/2011_09_26/image_00/data/0000000009.png,FAST,1770,
+../images/KITTI/2011_09_26/image_00/data/0000000009.png,ORB,500,
+../images/KITTI/2011_09_26/image_00/data/0000000009.png,AKAZE,1331,
+../images/KITTI/2011_09_26/image_00/data/0000000009.png,BRISK,2672,
+../images/KITTI/2011_09_26/image_00/data/0000000009.png,SIFT,1422,
+
+Next image
